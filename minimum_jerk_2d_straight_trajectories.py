@@ -1,3 +1,11 @@
+'''
+Flash, T., & Hogan, N. (1985).
+The coordination of arm movements: an experimentally confirmed mathematical model.
+Journal of neuroscience, 5(7), 1688-1703.
+https://www.jneurosci.org/content/jneuro/5/7/1688.full.pdf
+'''
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 from findiff import FinDiff
