@@ -12,3 +12,5 @@ The following libraries are required to test the methods:
 - numpy
 - matplotlib
 - findiff
+
+![minimum_jerk](https://github.com/Mario-Zarco/Minimum_Jerk/assets/173017196/4d0647e9-ecb4-4322-a4f4-962e066ea3f8)
